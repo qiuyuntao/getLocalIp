@@ -1,8 +1,4 @@
-/**
- * @authors 却痕 - 邱韵涛
- * @email yuntao.qyt@alibaba-inc.com
- * @date    2015-10-15 15:51:15
- */
+#!/usr/bin/env node
 
 function getIPAdress() {
   var interfaces = require('os').networkInterfaces();
@@ -17,4 +13,4 @@ function getIPAdress() {
   }
 }
 
-console.log(getIPAdress());
+console.log('ip:', getIPAdress());

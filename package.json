@@ -12,5 +12,8 @@
     "url": "https://github.com/qiuyuntao/getLocalIp"
   },
   "author": "qiuyuntao",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "ip": "index.js"
+  }
 }
