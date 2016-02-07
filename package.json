@@ -1,6 +1,6 @@
 {
   "name": "getlocalip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's a node line tool to get local ip",
   "git repository": "git@github.com:qiuyuntao/getLocalIp.git",
   "main": "index.js",
